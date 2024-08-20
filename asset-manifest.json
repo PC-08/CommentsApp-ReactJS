@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CommentsApp-ReactJS/static/css/main.dfa57b20.chunk.css",
+    "main.js": "/CommentsApp-ReactJS/static/js/main.c8f6a132.chunk.js",
+    "main.js.map": "/CommentsApp-ReactJS/static/js/main.c8f6a132.chunk.js.map",
+    "runtime-main.js": "/CommentsApp-ReactJS/static/js/runtime-main.84d82e39.js",
+    "runtime-main.js.map": "/CommentsApp-ReactJS/static/js/runtime-main.84d82e39.js.map",
+    "static/js/2.0822003f.chunk.js": "/CommentsApp-ReactJS/static/js/2.0822003f.chunk.js",
+    "static/js/2.0822003f.chunk.js.map": "/CommentsApp-ReactJS/static/js/2.0822003f.chunk.js.map",
+    "index.html": "/CommentsApp-ReactJS/index.html",
+    "static/css/main.dfa57b20.chunk.css.map": "/CommentsApp-ReactJS/static/css/main.dfa57b20.chunk.css.map",
+    "static/js/2.0822003f.chunk.js.LICENSE.txt": "/CommentsApp-ReactJS/static/js/2.0822003f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84d82e39.js",
+    "static/js/2.0822003f.chunk.js",
+    "static/css/main.dfa57b20.chunk.css",
+    "static/js/main.c8f6a132.chunk.js"
+  ]
+}
