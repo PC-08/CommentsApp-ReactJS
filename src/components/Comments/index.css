@@ -1,0 +1,117 @@
+/* Write your CSS here */
+.bg {
+  text-align: center;
+  font-family: 'roboto';
+  padding: 30px;
+}
+
+.comments-input-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.comment-head-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  color: #1e293b;
+  font-size: 56px;
+}
+
+.label {
+  color: #334155;
+}
+
+.name {
+  padding: 10px;
+  border: 2px solid #94a3b8;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.comment {
+  padding: 10px;
+  height: 120px;
+  border: 2px solid #94a3b8;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.submtbtn {
+  background-color: #0b69ff;
+  align-self: flex-start;
+  color: white;
+  font-size: 16px;
+  padding: 10px;
+  border: 0;
+  border-radius: 8px;
+}
+
+.img {
+  width: 400px;
+  margin-left: 200px;
+}
+
+.line {
+  color: #94a3b8;
+  margin: 20px;
+  height: 5px;
+  background-color: #94a3b8;
+}
+
+.cnumber {
+  text-align: left;
+}
+
+.com-sec {
+  padding-left: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.cnumber {
+  color: #64748b;
+  font-size: 18px;
+}
+
+.count {
+  background-color: #0284c7;
+  color: white;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.ulist {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 576px) {
+  .comment-head-container {
+    flex-direction: column;
+  }
+
+  .comments-input-container {
+    order: 2;
+  }
+
+  .img {
+    order: -1;
+    width: 250px;
+    margin-left: 0;
+  }
+
+  .head {
+    font-size: 36px;
+  }
+
+  .com-sec {
+    padding-left: 0;
+  }
+}
